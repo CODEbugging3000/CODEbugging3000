@@ -24,12 +24,13 @@ I'm a web developer I started learning JS(Html, Css) not long ago. For now I'm s
 </div>
 
    <br><br>
-<div align="left" max-width="400px" width="400px">
+<div align="left">
  <a href="https://github.com/CODEbugging3000/">
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark" style"max-width: 50%;" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark" style"max-width: 50%;"/>
  </a>
+
 <a href="https://github.com/CODEbugging3000/">
-  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark" style"max-width: 50%;"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark"/>
 </a>
 </div>
 
