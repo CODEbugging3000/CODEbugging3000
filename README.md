@@ -2,7 +2,7 @@
 <h1 align="center"> Hello devs🐱‍💻 ! I'm CODEbuggind3000; </h1>
 
 ## 🚀 About Me
-I'm a web developer I started learning JS(Html, Css) not long ago. For now I'm studying python for the back-end of my projects and in the future I intend to migrate to Java and kotlin for mobile development.
+I'm a web developer I started learning JS(Html, Css) not long ago. For now I'm studying python for the back-end of my projects and for the future I intend to migrate to Java and kotlin for mobile development.
 
 👩‍💻 I'm currently working on **Web Devlopment**;
 
