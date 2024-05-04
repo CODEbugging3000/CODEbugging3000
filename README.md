@@ -1,5 +1,5 @@
 
-# Olá, Mundo! Eu sou o Gabriel A.🌟
+# Olá, Mundo! Sou Gabriel Alves;
 
 ## Quem sou eu? 🤔
 Eu sou um entusiasta da tecnologia, mergulhando fundo no universo do desenvolvimento web e embarcando na emocionante jornada da engenharia de software. 🚀 Estou sempre com um terminal aberto, explorando o vasto mundo do código, um commit de cada vez!
