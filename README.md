@@ -49,11 +49,17 @@ Obrigado por passar por aqui! Não se esqueça de voltar de vez em quando para v
 </div>
           
    <br><br>
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-    <a href="https://github.com/CODEbugging3000/">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark"/>
-    </a>
-    <a href="https://github.com/CODEbugging3000/">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark"/>
-    </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/CODEbugging3000/">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CODEbugging3000/">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
