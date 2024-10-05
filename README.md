@@ -1,18 +1,17 @@
 # Olá, Mundo! Sou Gabriel Alves;
 
 ## Quem sou eu? 🤔
-Eu sou um entusiasta da tecnologia, mergulhando fundo no universo do desenvolvimento web e embarcando na emocionante jornada da engenharia de software. 🚀 Estou sempre com um terminal aberto, explorando o vasto mundo do código, um commit de cada vez!
+Eu sou um entusiasta da tecnologia, mergulhando no universo da engenharia de software. 🚀 Estou sempre com um terminal aberto, explorando o vasto mundo do código com um commit de cada vez!
 
 ## O que estou fazendo? 🛠️
-Atualmente, estou me aprimorando em **Desenvolvimento Web**, fascinado pelas possibilidades que **JavaScript**, **HTML** e **CSS** me proporcionam. Eu adoro ver minhas ideias ganhando vida na tela, especialmente com um pouco de magia do **Bootstrap** para tornar tudo bonito e responsivo, e do **Angular** para adicionar aquela camada extra de interatividade e estrutura.
+  Atualmente, estou me aprimorando em **Desenvolvimento Web** com **JavaScript**, **HTML/CSS** no Front End e **C#**, **SQL/NoSQL** no back End, utilizando **.NET**, **Angular** e **SQL Server** para aprimorar o desenvolvimento.
+  Paralelamente, estou explorando o universo do **Python**, usufruindo da sua simplicidade e poder para resolução de problemas de algoritmos e estrutura de dados.
 
-Paralelamente, estou explorando o universo do **Python**, deliciando-me com sua simplicidade e poder. É como ter uma super ferramenta que se transforma para atender a qualquer necessidade, desde scripts simples até desenvolvimento web e análise de dados.
-
-🌱 No momento, estou na incrível jornada de cursar **Engenharia de Software**, onde cada dia é uma nova descoberta e um passo a mais na minha missão de me tornar um desenvolvedor versátil. Estou super animado para adicionar mais linguagens de programação ao meu arsenal. O aprendizado nunca para, e estou aqui para absorver tudo que puder!
+🌱 No momento, estou cursando **Bacharelado em Engenharia de Software** na **Universidade de Brasília - UnB**, onde cada dia é uma nova descoberta e um passo a mais na minha missão de me tornar um desenvolvedor completo. Estou super animado para adicionar mais linguagens de programação ao meu arsenal.
 
 ## Meus objetivos 🎯
-- Dominar as profundezas do **Desenvolvimento Web**.
-- Explorar mais linguagens de programação e frameworks.
+- Dominar o **Desenvolvimento Web**.
+- Explorar as diversas áreas de aplicação do **.NET**.
 - Contribuir para projetos open source e deixar minha marca na comunidade.
 - Aprender algo novo todos os dias e compartilhar esse conhecimento com o mundo.
 
@@ -34,20 +33,27 @@ Obrigado por passar por aqui! Não se esqueça de voltar de vez em quando para v
 
 ## 👨🏽‍💻 linguagens:
   
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-### 🐱‍🚀frameworks:
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-          
-          
-   <br><br>
-<div align="left">
- <a href="https://github.com/CODEbugging3000/">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark" style"max-width: 50%;"/>
- </a>
-
-<a href="https://github.com/CODEbugging3000/">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark"/>
-</a>
+<div align="center">
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
+### 🐱‍🚀frameworks:
+<div align="center">
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
+</div>
+          
+   <br><br>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <a href="https://github.com/CODEbugging3000/">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark"/>
+    </a>
+    <a href="https://github.com/CODEbugging3000/">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark"/>
+    </a>
+</div>
