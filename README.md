@@ -24,7 +24,7 @@ Se você está interessado em trocar ideias sobre tecnologia, programação, ou 
   <a href = "mailto:g.alvesdearaujo06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://stackoverflow.com/users/23182994/gabriel-alves-de-araujo" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-alves-de-araujo-2a6607225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-alves-3000dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 Obrigado por passar por aqui! Não se esqueça de voltar de vez em quando para ver as atualizações. Vamos codificar juntos! 💻✨
